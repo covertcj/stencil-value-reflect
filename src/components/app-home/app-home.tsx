@@ -17,6 +17,8 @@ export class AppHome {
           Check out our docs on <a href='https://stenciljs.com'>stenciljs.com</a> to get started.
         </p>
 
+        <app-field value="value" otherValue="otherValue"></app-field>
+
         <stencil-route-link url='/profile/stencil'>
           <button>
             Profile page
